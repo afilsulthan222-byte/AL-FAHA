@@ -1,0 +1,766 @@
+{
+  "products": [
+    {
+      "id": "prod_1",
+      "slug": "imperial-gold-kasab-royal-bisht",
+      "name": "Imperial Gold Kasab Royal Bisht",
+      "arabicName": "بشت ملكي مطرز بالقصب الذهبي",
+      "subtitle": "Woven from superfine pure camel wool with 24k Japanese gold zaree embroidery.",
+      "description": "The pinnacle of Arabian ceremonial dignity. Hand-tailored in our Dubai atelier over 90 meticulous hours, this bisht features artisanal Kasab embroidery along the neckline, lapels, and cuffs, using genuine gold-plated threads. Drapes with an imposing yet effortless regal posture.",
+      "category": "Embroidered Bishts",
+      "collection": "Royal Heritage",
+      "price": 48500,
+      "compareAtPrice": 58000,
+      "stock": 6,
+      "sku": "ALF-BST-001",
+      "images": [
+        "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "sizes": [
+        "56 (Regular)",
+        "58 (Tall)",
+        "60 (Grand Tall)",
+        "Bespoke Made-to-Measure"
+      ],
+      "colors": [
+        {
+          "name": "Obsidian Black & Gold",
+          "hex": "#0B0B0B"
+        },
+        {
+          "name": "Desert Sand & Gold",
+          "hex": "#D2B48C"
+        },
+        {
+          "name": "Imperial Emerald & Gold",
+          "hex": "#0E3A2F"
+        }
+      ],
+      "fabric": "100% Superfine Merino Wool & Fine Camel Hair Blend with French Silk Lacing",
+      "care": [
+        "Strictly professional dry clean only",
+        "Store in complimentary cedar garment bag with velvet hanger",
+        "Steam press on low silk temperature"
+      ],
+      "details": [
+        "Handcrafted Kasab gold embroidery by master artisans",
+        "Double-ply reinforced gold tassels (Hael)",
+        "Custom monograms available upon request",
+        "Includes numbered AL FAHA Atelier Certificate of Authenticity"
+      ],
+      "isFeatured": true,
+      "isNew": false,
+      "isExclusive": true,
+      "rating": 4.95,
+      "reviewsCount": 38,
+      "createdAt": "2026-09-12T15:26:06.256Z"
+    },
+    {
+      "id": "prod_2",
+      "slug": "noir-etoile-silk-organza-haute-abaya",
+      "name": "Noir Étoile Silk Organza Haute Abaya",
+      "arabicName": "عباية الهوت كوتور الأورجانزا السوداء",
+      "subtitle": "Layered Italian silk organza with hand-sewn Swarovski jet crystal embellishments.",
+      "description": "An evocative dialogue between contemporary Milanese haute couture and Arabian modesty. The Noir Étoile Abaya flows with ethereal layers of sheer and opaque pure silk organza, subtle batwing sleeves, and hand-applied jet crystals that shimmer like desert constellations.",
+      "category": "Haute Couture Abayas",
+      "collection": "Desert Noir",
+      "price": 34900,
+      "compareAtPrice": 42000,
+      "stock": 12,
+      "sku": "ALF-ABY-002",
+      "images": [
+        "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "sizes": [
+        "52 (Petite)",
+        "54 (Standard)",
+        "56 (Medium)",
+        "58 (Long)",
+        "60 (Tall)"
+      ],
+      "colors": [
+        {
+          "name": "Midnight Onyx",
+          "hex": "#0D0D0D"
+        },
+        {
+          "name": "Ivory Moonbeam",
+          "hex": "#FDFBF7"
+        },
+        {
+          "name": "Smoky Charcoal",
+          "hex": "#262626"
+        }
+      ],
+      "fabric": "100% Pure Mulberry Silk Crepe with Silk Organza Overlay",
+      "care": [
+        "Gentle dry clean only",
+        "Keep away from sharp jewelry surfaces",
+        "Store hanging in breathable garment bag"
+      ],
+      "details": [
+        "Includes matching silk chiffon Sheila (scarf)",
+        "Concealed French snap buttons down front",
+        "Swarovski crystal micro-facets on cuffs and neckline",
+        "Featherweight breathability tailored for warm climates"
+      ],
+      "isFeatured": true,
+      "isNew": true,
+      "isExclusive": true,
+      "rating": 4.9,
+      "reviewsCount": 52,
+      "createdAt": "2026-09-22T15:26:06.257Z"
+    },
+    {
+      "id": "prod_3",
+      "slug": "qatari-giza-cotton-royal-thobe",
+      "name": "Al-Sultan Qatari Giza Cotton Thobe",
+      "arabicName": "ثوب السلطان القطري من قطن الجيزة",
+      "subtitle": "Woven from 200s 2-ply Egyptian Giza cotton with structured stiffened royal collar.",
+      "description": "Precision-tailored to perfection. Embodying the regal simplicity favored by Gulf royalty, this thobe features an immaculate silhouette, mother-of-pearl buttons, and crisp structured collar and cuffs engineered to maintain razor-sharp form all day.",
+      "category": "Royal Thobes",
+      "collection": "Royal Heritage",
+      "price": 18500,
+      "compareAtPrice": 22000,
+      "stock": 24,
+      "sku": "ALF-THB-003",
+      "images": [
+        "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "sizes": [
+        "54 (S)",
+        "56 (M)",
+        "58 (L)",
+        "60 (XL)",
+        "62 (XXL)"
+      ],
+      "colors": [
+        {
+          "name": "Crisp Royal Ivory",
+          "hex": "#FDFBF7"
+        },
+        {
+          "name": "Sand Pearl Cream",
+          "hex": "#F5EFEB"
+        },
+        {
+          "name": "Desert Platinum Gray",
+          "hex": "#D6D6D6"
+        }
+      ],
+      "fabric": "Extra-Long Staple 100% Egyptian Giza 200/2 Cotton (Made in Italy)",
+      "care": [
+        "Gentle warm machine wash or luxury laundry",
+        "Hot steam press with starch for signature crispness",
+        "Do not tumble dry"
+      ],
+      "details": [
+        "Natural Australian mother-of-pearl hidden buttons",
+        "Double chest pen pocket & deep smartphone holster pocket",
+        "Reinforced internal canvas collar interfacing",
+        "Wrinkle-resistant silky handfeel"
+      ],
+      "isFeatured": true,
+      "isNew": true,
+      "isExclusive": false,
+      "rating": 4.88,
+      "reviewsCount": 74,
+      "createdAt": "2026-09-27T15:26:06.257Z"
+    },
+    {
+      "id": "prod_4",
+      "slug": "andalusian-emerald-silk-jacquard-caftan",
+      "name": "Andalusian Emerald Silk Jacquard Caftan",
+      "arabicName": "قفطان أندلسي من حرير الجاكار الزمردي",
+      "subtitle": "Heavyweight silk jacquard adorned with Moroccan Sfifa braiding and aker buttons.",
+      "description": "Inspired by the historic palatial grandeur of the Alhambra and Fez royal courts. Crafted from custom-milled emerald green silk jacquard, detailed with shimmering metallic gold Sfifa trim, handmade braided silk Aakad buttons, and an ornate matching metallic belt.",
+      "category": "Silk Caftans",
+      "collection": "Golden Oasis",
+      "price": 39500,
+      "compareAtPrice": 47000,
+      "stock": 9,
+      "sku": "ALF-CFT-004",
+      "images": [
+        "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "sizes": [
+        "XS (34)",
+        "S (36)",
+        "M (38)",
+        "L (40)",
+        "XL (42)"
+      ],
+      "colors": [
+        {
+          "name": "Imperial Emerald & Gold",
+          "hex": "#0C2E24"
+        },
+        {
+          "name": "Royal Ruby & Gold",
+          "hex": "#630D19"
+        },
+        {
+          "name": "Midnight Sapphire & Gold",
+          "hex": "#0D2149"
+        }
+      ],
+      "fabric": "Heavyweight 100% Mulberry Silk Damask Jacquard",
+      "care": [
+        "Professional dry clean only",
+        "Keep belt in dry cotton pouch",
+        "Iron inside-out on low silk setting"
+      ],
+      "details": [
+        "Includes detachable handcrafted adjustable gold ceremonial belt (Mdamma)",
+        "140 hand-knotted silk buttons along central placket",
+        "Fully lined in pure lightweight habotai silk",
+        "Floor-sweeping regal silhouette"
+      ],
+      "isFeatured": true,
+      "isNew": false,
+      "isExclusive": true,
+      "rating": 4.96,
+      "reviewsCount": 29,
+      "createdAt": "2026-09-02T15:26:06.257Z"
+    },
+    {
+      "id": "prod_5",
+      "slug": "burgundy-velvet-gold-embroidered-robe",
+      "name": "Sultana Burgundy Velvet Evening Robe",
+      "arabicName": "رداء سهرة مخملي بورجوندي مطرز",
+      "subtitle": "Plush Lyon silk velvet with hand-embroidered floral gold zardozi motifs.",
+      "description": "An arresting statement piece for private soirees and royal galas. Sumptuous French silk velvet in deep vintage burgundy, trimmed with sculpted gold bullion embroidery along the shawl lapel and cuffs. Flows with sublime weight and dramatic drape.",
+      "category": "Velvet Evening Wear",
+      "collection": "Velvet Mirage",
+      "price": 42000,
+      "compareAtPrice": 50000,
+      "stock": 5,
+      "sku": "ALF-VLV-005",
+      "images": [
+        "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "sizes": [
+        "S (36)",
+        "M (38)",
+        "L (40)",
+        "Bespoke Custom"
+      ],
+      "colors": [
+        {
+          "name": "Burgundy Crimson",
+          "hex": "#5B1425"
+        },
+        {
+          "name": "Royal Obsidian Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "Deep Royal Navy",
+          "hex": "#121F3D"
+        }
+      ],
+      "fabric": "100% Silk Plush Velvet with 24k Gold Thread Zardozi Detailing",
+      "care": [
+        "Specialist dry clean only",
+        "Do not iron directly; steam from reverse distance only",
+        "Store hung in breathable garment bag"
+      ],
+      "details": [
+        "Sculpted 3D gold metal thread embroidery (Zardozi)",
+        "Pure silk satin lining in antique champagne",
+        "Deep tailored side welt pockets",
+        "Hand-stitched velvet sash belt included"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "isExclusive": true,
+      "rating": 4.92,
+      "reviewsCount": 19,
+      "createdAt": "2026-10-02T15:26:06.257Z"
+    },
+    {
+      "id": "prod_6",
+      "slug": "royal-cambodi-dehn-al-oud-extrait",
+      "name": "Crown Reserve Dehn Al Oud Cambodi Extrait 100ml",
+      "arabicName": "دهن عود كمبودي معتق - الاحتياطي الملكي",
+      "subtitle": "Distilled from 45-year aged wild Cambodi agarwood trees, macerated in pure sandalwood.",
+      "description": "The aromatic signature of AL FAHA royalty. Rare wild Cambodian agarwood oil aged for 45 years in dark crystal carboys, opening with warm smoky leather, honeyed dried plums, animalic woods, and a transcendent golden amber dry-down that lingers for over 36 hours.",
+      "category": "Fragrances & Accessories",
+      "collection": "Royal Heritage",
+      "price": 24500,
+      "compareAtPrice": 29000,
+      "stock": 18,
+      "sku": "ALF-FRG-006",
+      "images": [
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1547887537-6158d64c35b3?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "sizes": [
+        "50ml Extrait",
+        "100ml Flacon Flambeau"
+      ],
+      "colors": [
+        {
+          "name": "Crystal Gold Flacon",
+          "hex": "#D4AF37"
+        }
+      ],
+      "fabric": "Pure Perfume Oil (Extrait de Parfum 40% Concentration)",
+      "care": [
+        "Keep away from direct sunlight and heat",
+        "Store in velvet presentation chest",
+        "Dab gently on pulse points"
+      ],
+      "details": [
+        "Distilled from ethically harvested 45-year wild agarwood",
+        "Handcrafted crystal flacon with 24k gold leaf stopper",
+        "Housed in hand-carved polished black walnut keepsake chest",
+        "Batch numbered: Only 250 flacons released worldwide annually"
+      ],
+      "isFeatured": true,
+      "isNew": false,
+      "isExclusive": true,
+      "rating": 5,
+      "reviewsCount": 46,
+      "createdAt": "2026-09-17T15:26:06.257Z"
+    },
+    {
+      "id": "prod_7",
+      "slug": "falcons-crest-24k-gold-cufflinks",
+      "name": "Falcon’s Crest 24K Gold Plated Cufflinks",
+      "arabicName": "أزرار أكمام مطلية بالذهب عيار ٢٤ قيراط بشعار الصقر",
+      "subtitle": "Cast in solid jeweler’s bronze and heavily plated in 24k yellow gold with black onyx inlay.",
+      "description": "The quintessential sartorial finishing touch for the distinguished gentleman. Emblazoned with the noble Arabian Falcon crest against hand-cut natural black onyx stone, bordered by fine guilloché diamond milling.",
+      "category": "Fragrances & Accessories",
+      "collection": "Desert Noir",
+      "price": 12500,
+      "compareAtPrice": 15000,
+      "stock": 20,
+      "sku": "ALF-ACC-007",
+      "images": [
+        "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "sizes": [
+        "One Size (18mm)"
+      ],
+      "colors": [
+        {
+          "name": "24k Gold & Natural Onyx",
+          "hex": "#D4AF37"
+        },
+        {
+          "name": "Platinum & Emerald Jade",
+          "hex": "#E5E4E2"
+        }
+      ],
+      "fabric": "Solid Jeweler Bronze with 5-Micron 24k Gold Electroplating & Natural Black Onyx",
+      "care": [
+        "Buff with complimentary microfiber jewelry cloth",
+        "Avoid exposure to perfumes and water",
+        "Store in velvet presentation pouch"
+      ],
+      "details": [
+        "Heavyweight whale-back closure with AL FAHA hallmark engraving",
+        "Natural hand-cut and polished gemstone inserts",
+        "Presented in a leather travel box with gold embossed seal",
+        "Lifetime guarantee against tarnishing"
+      ],
+      "isFeatured": false,
+      "isNew": false,
+      "isExclusive": false,
+      "rating": 4.85,
+      "reviewsCount": 22,
+      "createdAt": "2026-08-23T15:26:06.257Z"
+    },
+    {
+      "id": "prod_8",
+      "slug": "sahara-dune-silk-chiffon-farasha-abaya",
+      "name": "Sahara Dune Silk Chiffon Farasha Abaya",
+      "arabicName": "عباية فراشة من شيفون الحرير بلون رمال الصحراء",
+      "subtitle": "Dramatic billowing Farasha cut in sand ivory chiffon with gold lurex filament stripes.",
+      "description": "A masterclass in majestic movement. This Farasha abaya catches every desert breeze with its expansive, sweeping cut. Delicate woven gold lurex stripes catch natural sunlight, creating a golden halo effect around the wearer.",
+      "category": "Haute Couture Abayas",
+      "collection": "Golden Oasis",
+      "price": 29500,
+      "compareAtPrice": 35000,
+      "stock": 14,
+      "sku": "ALF-ABY-008",
+      "images": [
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "sizes": [
+        "54 (Free Fit)",
+        "56 (Free Fit)",
+        "58 (Free Fit)"
+      ],
+      "colors": [
+        {
+          "name": "Dune Sand & Gold",
+          "hex": "#EAE0D5"
+        },
+        {
+          "name": "Oasis Ivory",
+          "hex": "#FDFBF7"
+        },
+        {
+          "name": "Desert Night Black",
+          "hex": "#141414"
+        }
+      ],
+      "fabric": "100% High-Twist Silk Chiffon with Metallic Gold Lurex Weft",
+      "care": [
+        "Gentle dry clean only",
+        "Steam gently from 6 inches distance"
+      ],
+      "details": [
+        "Dramatic 180-degree winged butterfly drape",
+        "Comes with matching opaque slip dress in breathable jersey",
+        "Matching silk chiffon scarf with gold beaded hemline",
+        "Lightweight and fluid"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "isExclusive": false,
+      "rating": 4.93,
+      "reviewsCount": 31,
+      "createdAt": "2026-10-07T15:26:06.257Z"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "user_customer_1",
+      "customerName": "H.E. Sheikh Tariq Al-Mansoor",
+      "customerEmail": "tariq@alfaha.com",
+      "customerPhone": "+91 98201 54321",
+      "shippingAddress": {
+        "fullName": "H.E. Sheikh Tariq Al-Mansoor",
+        "email": "tariq@alfaha.com",
+        "phone": "+91 98201 54321",
+        "addressLine1": "Villa 14, Royal Palm Residences",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400026",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "prod_1",
+          "productName": "Imperial Gold Kasab Royal Bisht",
+          "arabicName": "بشت ملكي مطرز بالقصب الذهبي",
+          "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=1200&auto=format&fit=crop",
+          "size": "58 (Tall)",
+          "color": "Obsidian Black & Gold",
+          "price": 48500,
+          "quantity": 1,
+          "total": 48500
+        }
+      ],
+      "subtotal": 48500,
+      "shippingFee": 0,
+      "discount": 4850,
+      "couponCode": "ROYAL10",
+      "total": 43650,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "razorpayOrderId": "order_1791818767521_tzjaxu",
+      "razorpayPaymentId": "pay_test_suite_verified",
+      "orderStatus": "dispatched",
+      "estimatedDelivery": "3-5 Business Days",
+      "giftNote": "Lacquered wooden presentation chest with royal monogram.",
+      "id": "ord_1791818767570",
+      "orderNumber": "ALF-2026-3095",
+      "timeline": [
+        {
+          "status": "confirmed",
+          "title": "Payment Verified & Order Confirmed",
+          "description": "Secured via Razorpay. Order transferred to the AL FAHA Atelier.",
+          "timestamp": "12 Oct 2026, 8:56 pm IST"
+        },
+        {
+          "status": "dispatched",
+          "title": "Dispatched with Sovereign Courier",
+          "description": "Package dispatched via Blue Dart Apex Sovereign Courier. Tracking: BLUEDART-ROYAL-99881.",
+          "timestamp": "12 Oct 2026, 8:56 pm IST"
+        }
+      ],
+      "createdAt": "2026-10-12T15:26:07.570Z",
+      "updatedAt": "2026-10-12T15:26:07.732Z",
+      "trackingNumber": "BLUEDART-ROYAL-99881",
+      "courierName": "Blue Dart Apex Sovereign Courier"
+    },
+    {
+      "id": "ord_101",
+      "orderNumber": "ALF-2026-7842",
+      "userId": "user_customer_1",
+      "customerName": "Sheikh Tariq Al-Mansoor",
+      "customerEmail": "tariq@alfaha.com",
+      "customerPhone": "+91 98201 54321",
+      "shippingAddress": {
+        "fullName": "Sheikh Tariq Al-Mansoor",
+        "email": "tariq@alfaha.com",
+        "phone": "+91 98201 54321",
+        "addressLine1": "Villa 14, Royal Palm Residences",
+        "addressLine2": "Altamount Road, Cumballa Hill",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400026",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "prod_1",
+          "productName": "Imperial Gold Kasab Royal Bisht",
+          "arabicName": "بشت ملكي مطرز بالقصب الذهبي",
+          "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=600&auto=format&fit=crop",
+          "size": "58 (Tall)",
+          "color": "Obsidian Black & Gold",
+          "price": 48500,
+          "quantity": 1,
+          "total": 48500
+        },
+        {
+          "productId": "prod_6",
+          "productName": "Crown Reserve Dehn Al Oud Cambodi Extrait 100ml",
+          "arabicName": "دهن عود كمبودي معتق",
+          "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?q=80&w=600&auto=format&fit=crop",
+          "size": "100ml Flacon Flambeau",
+          "color": "Crystal Gold Flacon",
+          "price": 24500,
+          "quantity": 1,
+          "total": 24500
+        }
+      ],
+      "subtotal": 73000,
+      "shippingFee": 0,
+      "discount": 7300,
+      "couponCode": "ROYAL10",
+      "total": 65700,
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "razorpayOrderId": "order_test_901824",
+      "razorpayPaymentId": "pay_test_892711",
+      "orderStatus": "tailoring",
+      "trackingNumber": "BLUEDART-ROYAL-78912",
+      "courierName": "Blue Dart Apex White Glove",
+      "estimatedDelivery": "18 October 2026",
+      "giftNote": "Please engrave the presentation wooden chest with AL FAHA Royal Emblem.",
+      "timeline": [
+        {
+          "status": "confirmed",
+          "title": "Order Confirmed & Payment Verified",
+          "description": "Payment of ₹65,700 verified via Razorpay Secured Checkout.",
+          "timestamp": "11 Oct 2026, 14:30 IST"
+        },
+        {
+          "status": "tailoring",
+          "title": "Master Atelier Crafting & Hand-Embroidery",
+          "description": "Our senior tailors are executing bespoke edge embroidery and double inspection.",
+          "timestamp": "12 Oct 2026, 09:15 IST"
+        }
+      ],
+      "createdAt": "2026-10-11T09:00:00.000Z",
+      "updatedAt": "2026-10-12T03:45:00.000Z"
+    },
+    {
+      "id": "ord_102",
+      "orderNumber": "ALF-2026-8910",
+      "userId": "user_customer_2",
+      "customerName": "Fatima Al-Sayed",
+      "customerEmail": "fatima.couture@example.com",
+      "customerPhone": "+91 99887 65432",
+      "shippingAddress": {
+        "fullName": "Fatima Al-Sayed",
+        "email": "fatima.couture@example.com",
+        "phone": "+91 99887 65432",
+        "addressLine1": "Penthouse 22B, Oberoi Sky Heights",
+        "addressLine2": "Juhu Tara Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400049",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "prod_2",
+          "productName": "Noir Étoile Silk Organza Haute Abaya",
+          "arabicName": "عباية الهوت كوتور الأورجانزا السوداء",
+          "image": "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?q=80&w=600&auto=format&fit=crop",
+          "size": "56 (Medium)",
+          "color": "Midnight Onyx",
+          "price": 34900,
+          "quantity": 1,
+          "total": 34900
+        }
+      ],
+      "subtotal": 34900,
+      "shippingFee": 0,
+      "discount": 0,
+      "total": 34900,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "dispatched",
+      "trackingNumber": "DELHIVERY-PRIME-44102",
+      "courierName": "Delhivery Sovereign Royal",
+      "estimatedDelivery": "15 October 2026",
+      "timeline": [
+        {
+          "status": "confirmed",
+          "title": "Order Placed (Cash on Delivery)",
+          "description": "Order confirmed with recipient verification phone confirmation.",
+          "timestamp": "10 Oct 2026, 11:20 IST"
+        },
+        {
+          "status": "tailoring",
+          "title": "Hand-Finished & Packaged in Royal Black Box",
+          "description": "Placed inside velvet scented sleeve with silk ribbon seal.",
+          "timestamp": "11 Oct 2026, 16:00 IST"
+        },
+        {
+          "status": "dispatched",
+          "title": "Handed Over to Sovereign Royal Courier",
+          "description": "In transit to Mumbai delivery hub under tracking DELHIVERY-PRIME-44102.",
+          "timestamp": "12 Oct 2026, 08:30 IST"
+        }
+      ],
+      "createdAt": "2026-10-10T05:50:00.000Z",
+      "updatedAt": "2026-10-12T03:00:00.000Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "user_admin",
+      "name": "Amir Al-Mansoor (Admin)",
+      "email": "admin@alfaha.com",
+      "role": "admin",
+      "phone": "+91 90000 11111",
+      "passwordHash": "$2a$10$9WUGnjH9DBKf0Bt45HMWxekXAco0c49RcCubctOLRa4AO5fl4PS5O",
+      "createdAt": "2026-10-12T15:26:06.557Z"
+    },
+    {
+      "id": "user_customer_1",
+      "name": "Sheikh Tariq Al-Mansoor",
+      "email": "tariq@alfaha.com",
+      "role": "customer",
+      "phone": "+91 98201 54321",
+      "passwordHash": "$2a$10$bOnmYA1u8hrLSxFqlhUfguvLRg1Hze2kyvNMNvSrkVvi1fpp/8PA6",
+      "addresses": [
+        {
+          "fullName": "Sheikh Tariq Al-Mansoor",
+          "email": "tariq@alfaha.com",
+          "phone": "+91 98201 54321",
+          "addressLine1": "Villa 14, Royal Palm Residences",
+          "addressLine2": "Altamount Road, Cumballa Hill",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pincode": "400026",
+          "country": "India"
+        }
+      ],
+      "createdAt": "2026-10-12T15:26:06.557Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev_1",
+      "productId": "prod_1",
+      "userName": "H.E. Tariq Al-Falasi",
+      "userEmail": "tariq.f@example.com",
+      "rating": 5,
+      "title": "Unsurpassed craftsmanship and drape",
+      "comment": "The 24k Japanese Kasab gold work is peerless. I wore this to the National Gala and received numerous compliments on its regal cut. Packaging in the wooden chest is world-class.",
+      "verified": true,
+      "createdAt": "2026-09-28T10:00:00.000Z"
+    },
+    {
+      "id": "rev_2",
+      "productId": "prod_2",
+      "userName": "Princess Salma",
+      "userEmail": "salma.k@example.com",
+      "rating": 5,
+      "title": "Sheer perfection for private galas",
+      "comment": "The way the silk organza catches the light is hypnotic. Truly haute couture grade. Customer concierge service was delightfully swift.",
+      "verified": true,
+      "createdAt": "2026-10-02T12:30:00.000Z"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "ROYAL10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderValue": 5000,
+      "maxDiscount": 10000,
+      "expiresAt": "2028-12-31T23:59:59Z",
+      "description": "10% off for prestigious AL FAHA patrons"
+    },
+    {
+      "code": "ALFAHA20",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "minOrderValue": 25000,
+      "maxDiscount": 20000,
+      "expiresAt": "2028-12-31T23:59:59Z",
+      "description": "20% off on private couture orders above ₹25,000"
+    },
+    {
+      "code": "WELCOME500",
+      "discountType": "fixed",
+      "discountValue": 500,
+      "minOrderValue": 3000,
+      "expiresAt": "2028-12-31T23:59:59Z",
+      "description": "₹500 welcome credit on your first atelier order"
+    }
+  ],
+  "emailNotifications": [
+    {
+      "recipientEmail": "tariq@alfaha.com",
+      "recipientName": "H.E. Sheikh Tariq Al-Mansoor",
+      "subject": "AL FAHA &bull; Order Dispatched #ALF-2026-3095 (Tracking: BLUEDART-ROYAL-99881)",
+      "type": "order_dispatched",
+      "orderNumber": "ALF-2026-3095",
+      "htmlPreview": "\n<!DOCTYPE html>\n<html>\n<head><meta charset=\"utf-8\"><title>AL FAHA: Order Dispatched</title></head>\n<body style=\"margin: 0; padding: 0; background-color: #0A0A0A; font-family: sans-serif; color: #EAE4D9;\">\n  <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"padding: 40px 10px;\">\n    <tr>\n      <td align=\"center\">\n        <table width=\"600\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"background-color: #121212; border: 1px solid #332B1A; border-radius: 8px; padding: 30px;\">\n          <tr>\n            <td align=\"center\">\n              <h1 style=\"color: #D4AF37; letter-spacing: 4px; margin: 0;\">AL FAHA</h1>\n              <p style=\"color: #A69265; font-size: 12px; letter-spacing: 3px;\">ROYAL DISPATCH ALERT</p>\n              <div style=\"height: 1px; background-color: #38301E; margin: 20px 0;\"></div>\n              <h3 style=\"color: #FDFBF7;\">Your Couture Creation is En Route</h3>\n              <p style=\"color: #B5AD9F; line-height: 1.6; font-size: 15px;\">\n                Dear H.E. Sheikh Tariq Al-Mansoor, your garments for order <strong style=\"color: #D4AF37;\">ALF-2026-3095</strong> have passed final atelier quality inspection and have been released to our white glove royal courier.\n              </p>\n              <div style=\"background-color: #181510; border: 1px solid #38301E; border-radius: 6px; padding: 20px; margin: 24px 0; text-align: left;\">\n                <p style=\"margin: 0 0 8px 0; color: #8A7B5E; font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase;\">Carrier</p>\n                <p style=\"margin: 0 0 16px 0; color: #FDFBF7; font-size: 16px; font-weight: bold;\">Blue Dart Apex Sovereign Courier</p>\n                <p style=\"margin: 0 0 8px 0; color: #8A7B5E; font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase;\">Consignment Tracking Number</p>\n                <p style=\"margin: 0; color: #D4AF37; font-size: 18px; font-weight: bold; letter-spacing: 1px;\">BLUEDART-ROYAL-99881</p>\n              </div>\n              <p style=\"color: #736956; font-size: 13px;\">\n                Track your package anytime at: <a href=\"http://localhost:3000/track\" style=\"color: #D4AF37; text-decoration: underline;\">alfaha.com/track</a>\n              </p>\n            </td>\n          </tr>\n        </table>\n      </td>\n    </tr>\n  </table>\n</body>\n</html>\n  ",
+      "id": "email_1791818767754",
+      "sentAt": "2026-10-12T15:26:07.754Z"
+    },
+    {
+      "recipientEmail": "tariq@alfaha.com",
+      "recipientName": "H.E. Sheikh Tariq Al-Mansoor",
+      "subject": "AL FAHA &bull; Order Confirmed #ALF-2026-3095",
+      "type": "order_confirmed",
+      "orderNumber": "ALF-2026-3095",
+      "htmlPreview": "\n<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"utf-8\">\n  <title>AL FAHA Royal Order Confirmation</title>\n</head>\n<body style=\"margin: 0; padding: 0; background-color: #0A0A0A; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #EAE4D9;\">\n  <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"background-color: #0A0A0A; padding: 40px 10px;\">\n    <tr>\n      <td align=\"center\">\n        <table width=\"600\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"background-color: #121212; border: 1px solid #332B1A; border-radius: 8px; overflow: hidden; box-shadow: 0 10px 40px rgba(0,0,0,0.8);\">\n          <!-- Header -->\n          <tr>\n            <td align=\"center\" style=\"padding: 40px 30px 20px 30px; background: linear-gradient(180deg, #1C1914 0%, #121212 100%); border-bottom: 1px solid #332B1A;\">\n              <div style=\"color: #D4AF37; font-size: 28px; letter-spacing: 6px; font-weight: bold; text-transform: uppercase;\">AL FAHA</div>\n              <div style=\"color: #A69265; font-size: 12px; letter-spacing: 4px; margin-top: 4px;\">HAUTE COUTURE ARABIA</div>\n            </td>\n          </tr>\n\n          <!-- Welcome message -->\n          <tr>\n            <td style=\"padding: 35px 35px 15px 35px;\">\n              <h2 style=\"color: #FDFBF7; font-size: 22px; margin-top: 0; font-weight: normal; letter-spacing: 1px;\">\n                Honored Patron <span style=\"color: #D4AF37;\">H.E. Sheikh Tariq Al-Mansoor</span>,\n              </h2>\n              <p style=\"color: #B5AD9F; line-height: 1.7; font-size: 15px;\">\n                We are privileged to confirm receipt of your bespoke couture acquisition. Your order has been registered under reference <strong style=\"color: #D4AF37;\">ALF-2026-3095</strong>.\n              </p>\n              <div style=\"background-color: #191612; border-left: 3px solid #D4AF37; padding: 14px 18px; margin: 20px 0; font-size: 14px; color: #D5C8B2;\">\n                <strong>Payment Method:</strong> Verified via Razorpay Secured<br/>\n                <strong>Status:</strong> Payment Verified<br/>\n                <strong>Estimated Delivery:</strong> 3-5 Business Days\n              </div>\n            </td>\n          </tr>\n\n          <!-- Items Table -->\n          <tr>\n            <td style=\"padding: 10px 35px;\">\n              <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse;\">\n                <thead>\n                  <tr style=\"border-bottom: 2px solid #38301E;\">\n                    <th align=\"left\" style=\"padding: 10px 16px; color: #8A7B5E; font-size: 12px; letter-spacing: 2px; text-transform: uppercase;\">Atelier Pieces</th>\n                    <th align=\"right\" style=\"padding: 10px 16px; color: #8A7B5E; font-size: 12px; letter-spacing: 2px; text-transform: uppercase;\">Amount</th>\n                  </tr>\n                </thead>\n                <tbody>\n                  \n    <tr>\n      <td style=\"padding: 16px; border-bottom: 1px solid #2A2518; color: #FDFBF7;\">\n        <strong style=\"color: #D4AF37; font-family: 'Cinzel', serif;\">Imperial Gold Kasab Royal Bisht</strong><br/>\n        <span style=\"font-size: 13px; color: #B3A894;\">Size: 58 (Tall) | Color: Obsidian Black & Gold | Qty: 1</span>\n      </td>\n      <td style=\"padding: 16px; border-bottom: 1px solid #2A2518; text-align: right; color: #D4AF37; font-weight: bold;\">\n        ₹48,500\n      </td>\n    </tr>\n  \n                </tbody>\n                <tfoot>\n                  <tr>\n                    <td style=\"padding: 12px 16px 4px 16px; text-align: right; color: #A69265; font-size: 14px;\">Subtotal:</td>\n                    <td style=\"padding: 12px 16px 4px 16px; text-align: right; color: #EAE4D9; font-size: 14px;\">₹48,500</td>\n                  </tr>\n                  \n                  <tr>\n                    <td style=\"padding: 4px 16px; text-align: right; color: #4ADE80; font-size: 14px;\">Royal Privilege Discount:</td>\n                    <td style=\"padding: 4px 16px; text-align: right; color: #4ADE80; font-size: 14px;\">-₹4,850</td>\n                  </tr>\n                  <tr>\n                    <td style=\"padding: 4px 16px; text-align: right; color: #A69265; font-size: 14px;\">White Glove Shipping:</td>\n                    <td style=\"padding: 4px 16px; text-align: right; color: #EAE4D9; font-size: 14px;\">COMPLIMENTARY</td>\n                  </tr>\n                  <tr>\n                    <td style=\"padding: 16px 16px; text-align: right; color: #D4AF37; font-size: 18px; font-weight: bold; border-top: 1px solid #38301E;\">Grand Total:</td>\n                    <td style=\"padding: 16px 16px; text-align: right; color: #D4AF37; font-size: 20px; font-weight: bold; border-top: 1px solid #38301E;\">₹43,650</td>\n                  </tr>\n                </tfoot>\n              </table>\n            </td>\n          </tr>\n\n          <!-- Shipping Destination -->\n          <tr>\n            <td style=\"padding: 20px 35px 35px 35px;\">\n              <h4 style=\"color: #D4AF37; font-size: 14px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 8px;\">Delivery Residence</h4>\n              <p style=\"color: #A69E8F; font-size: 14px; line-height: 1.6; margin: 0;\">\n                H.E. Sheikh Tariq Al-Mansoor<br/>\n                Villa 14, Royal Palm Residences<br/>\n                Mumbai, Maharashtra - 400026<br/>\n                Contact: +91 98201 54321\n              </p>\n            </td>\n          </tr>\n\n          <!-- Footer -->\n          <tr>\n            <td align=\"center\" style=\"padding: 30px; background-color: #0E0D0B; border-top: 1px solid #292316; color: #736956; font-size: 12px; line-height: 1.6;\">\n              AL FAHA Atelier &bull; Dubai &bull; Mumbai &bull; London<br/>\n              Concierge: concierge@alfaha.com | +91 90000 11111<br/>\n              &copy; 2026 AL FAHA Couture. All Royal Rights Reserved.\n            </td>\n          </tr>\n        </table>\n      </td>\n    </tr>\n  </table>\n</body>\n</html>\n  ",
+      "id": "email_1791818767686",
+      "sentAt": "2026-10-12T15:26:07.686Z"
+    },
+    {
+      "id": "email_1",
+      "recipientEmail": "tariq@alfaha.com",
+      "recipientName": "Sheikh Tariq Al-Mansoor",
+      "subject": "AL FAHA: Order Confirmed #ALF-2026-7842",
+      "type": "order_confirmed",
+      "orderNumber": "ALF-2026-7842",
+      "htmlPreview": "<h1>Welcome to the Atelier</h1><p>Your order #ALF-2026-7842 has been received and our master artisans have initiated crafting.</p>",
+      "sentAt": "2026-10-11T14:30:05.000Z"
+    }
+  ],
+  "settings": {
+    "codEnabled": true,
+    "codFee": 0,
+    "freeShippingThreshold": 10000,
+    "standardShippingFee": 250,
+    "expressWhiteGloveFee": 750,
+    "currency": "INR",
+    "razorpayKeyId": "rzp_test_ALFAHA_LUXURY_PUBLIC"
+  }
+}
